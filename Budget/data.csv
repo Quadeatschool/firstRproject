@@ -1,0 +1,7 @@
+Date,Category,Amount,PaymentMethod,Notes
+2025-09-01,Tuition,3000,Card,"Fall tuition"
+2025-09-05,Rent,500,Card,"Monthly rent"
+2025-09-10,Groceries,150.25,Cash,"Food and supplies"
+2025-09-12,Gas,40.5,Card,"Fuel"
+2025-09-15,Entertainment,60,Cash,"Movies and events"
+2025-09-20,Books,120,Card,"Course materials"
